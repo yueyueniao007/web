@@ -3,9 +3,6 @@ import App from './App.vue'
 import router from './router'
 import './assets/css/reset.min.css'
 
-/* bootstarp */
-import './assets/css/bootstrap.min.css'
-import './assets/js/bootstrap.min'
 /* 头部组件 */
 import Header from './components/Header'
 Vue.component(Header.name, Header)
